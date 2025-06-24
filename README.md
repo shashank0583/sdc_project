@@ -1,7 +1,7 @@
 # Skill Development Course Projects
 
 ## Author
-**Sai Vineel**  
+**Shashank chary**  
 CSE-B, ACE Engineering College (Autonomous)
 
 ---
